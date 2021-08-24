@@ -1,4 +1,4 @@
-package kakao2021.level1;
+package kakao.level1;
 
 public class Solution_신규아이디추천 {
 	public static void main(String[] args) {
