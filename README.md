@@ -7,7 +7,7 @@
 <h4>:strawberry: 알고리즘 스터디 </h4>
 
 - 상반기 (21.01 ~ 21.06) 📆
-- 하반기 (21.07 ~ ing) 📆
+- 하반기 (21.07 ~ 22.03) 📆
 
 ## :peach: BAEKJOON 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=kkgmco0825)](https://solved.ac/kkgmco0825)
